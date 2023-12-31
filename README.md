@@ -2,6 +2,6 @@
 visit this [https://www.freecodecamp.org/learn/scientific-computing-with-python](website) if you are interesting.
 ## Table of Contents
 
-- [1](#ArithmeticFormatter)
-- [2](#TimeCalculator)
+- [1.Arithmetic Formatter](#https://github.com/YuanhuiAtGit/freeCodeCamp-python-projects/blob/main/arithmetic_formatter.py)
+- [2.Time Calculator](#https://github.com/YuanhuiAtGit/freeCodeCamp-python-projects/blob/main/time_calculator.py)
 
