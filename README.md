@@ -5,6 +5,9 @@
   
 ## Table of Contents
 
-- [1.Arithmetic Formatter](https://github.com/YuanhuiAtGit/freeCodeCamp-python-projects/blob/main/arithmetic_formatter.py)
-- [2.Time Calculator](https://github.com/YuanhuiAtGit/freeCodeCamp-python-projects/blob/main/time_calculator.py)
+- [Arithmetic Formatter](https://github.com/YuanhuiAtGit/freeCodeCamp-python-projects/blob/main/arithmetic_formatter.py)
+- [Time Calculator](https://github.com/YuanhuiAtGit/freeCodeCamp-python-projects/blob/main/time_calculator.py)
+- [Budget App]
+- [Polygon Area Calculator]
+- [Probability Calculator]
 
